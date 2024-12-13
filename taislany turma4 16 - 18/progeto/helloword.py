@@ -1,0 +1,5 @@
+#FAÇA O PROGRAMA QUE MOSTRA MENSAGEM ALO MUNDO NA TELA#
+print ('ola mundo')
+
+
+
